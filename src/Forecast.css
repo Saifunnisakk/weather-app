@@ -29,4 +29,10 @@
   .card > h2 {
     font-size: 18px !important;
   }
+  .description__card-icon > h3 {
+    font-size: 14px !important;
+  }
+  .card {
+    width: 200px !important;
+  }
 }
